@@ -10,6 +10,7 @@
 - 🔬 **Current Role:** Machine Learning Researcher at *Bocconi Institute for Data Science & Analytics (BIDSA)*
 - 💼 **Career Interests:** ML Engineering & Quantitative Research
 - 🌍 **Location:** Milan, 🇮🇹 → New York City, 🇺🇸
+- 🏀 **Played in Italy’s Serie C (competitive semi‑pro league):** hit me up if you need a teammate!
 
 ---
 
@@ -30,10 +31,6 @@
 | **[Mitigating‑Default‑Risks‑in‑Banking](https://github.com/YOUR_GITHUB_USERNAME/Mitigating-Default-Risks-in-Banking-Ensemble-Based-Approaches-for-Addressing-Class-Imbalance-)** | Credit‑scoring pipeline with EDA, feature engineering & imbalance‑aware ensembles (XGBoost, Balanced RF, Easy Ensemble) | Python, Scikit‑learn, XGBoost, Imbalanced‑learn |
 
 
-## 🏀 Off the Court
-
-Former Serie C basketball player. Always up for a pick‑up game (or any sport). Hit me up if you need an extra teammate!
-
 ---
 
 ## 🤝 Connect with Me
@@ -43,4 +40,4 @@ Former Serie C basketball player. Always up for a pick‑up game (or any sport
 
 ---
 
-<sub>👀 *Looking for full‑time or intern roles starting 2025 in ML Engineering or Quantitative Research.*</sub>
+<sub>👀 *Looking for full‑time or intern roles starting 2026 in ML Engineering or Quantitative Trading/Research.*</sub>
