@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages & Query**    Python · R · SQL · KNIME
+**Languages & Query**    Python · R · SQL · KNIME  
 **ML & Optimization**    PyTorch (+ PyTorch Geometric) · Scikit‑learn · Optuna · OpenAI API  
 **Data Analysis & Viz**    Pandas · NumPy · Matplotlib · Seaborn · MyGene  
 **Ops & Workflow**    Linux/Bash · Slurm · Git/GitHub 
