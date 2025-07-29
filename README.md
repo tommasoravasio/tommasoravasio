@@ -26,7 +26,7 @@
 ## 📂 Featured Projects
 | Project | Brief | Stack |
 |---------|-------|-------|
-| **[scRNAseq‑GNN‑multiclass‑tp53](https://github.com/tommasoravasio/scRNAseq-GNN-multiclass-tp53)** | Follow‑up to the binary model: extending to multi‑class TP53 mutation classification (predicting specific mutation types) | PyTorch Geometric, Optuna, Linux, Slurm, Git, Mygene |
+| **[scRNAseq‑GNN‑multiclass‑tp53](https://github.com/tommasoravasio/scRNAseq-GNN-multiclass-tp53)** | 🚧 In progress: Extension of the binary GNN model to multi-class TP53 mutation classification (predicting specific mutation types) | PyTorch Geometric, Optuna, Linux, Slurm, Git, Mygene |
 | **[scRNAseq‑GNN‑binary‑tp53](https://github.com/tommasoravasio/scRNAseq-GNN-binary-tp53)** | Graph Neural Network for binary TP53 mutation status prediction (mut vs wt) from single‑cell RNA‑seq |  PyTorch Geometric, Optuna, Linux, Slurm, Git, Mygene  |
 | **[bank-default-risk-ensembles](https://github.com/tommasoravasio/bank-default-risk-ensembles)** | Credit‑scoring pipeline with EDA, feature engineering & imbalance‑aware ensembles (XGBoost, Balanced RF, Easy Ensemble) | Python, Scikit‑learn, XGBoost, Imbalanced‑learn |
 
