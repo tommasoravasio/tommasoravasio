@@ -5,8 +5,8 @@
 ## 🚀 About Me
 
 - 🎓 **Education:**
-  - BSc in CS & Econ @ *Bocconi University* (2022 → 2025)
-  - Incoming MSc in **Operations Research** @ *Columbia University* (Fall 2025)
+  - MSc in **Operations Research** @ *Columbia University* (2025 - Expected Dec 2026)
+  - BSc in CS & Econ @ *Bocconi University* (2022 - 2025)
 - 🔬 **Current Role:** Machine Learning Researcher at *Bocconi Institute for Data Science & Analytics (BIDSA)*
 - 💼 **Career Interests:** ML Engineering & Quantitative Research
 - 🌍 **Location:** Milan, 🇮🇹 → New York City, 🇺🇸
