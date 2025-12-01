@@ -41,4 +41,3 @@
 
 ---
 
-<sub>👀 *Looking for full‑time or intern roles starting 2026 in ML Engineering or Quantitative Trading/Research.*</sub>
