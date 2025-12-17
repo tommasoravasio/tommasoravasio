@@ -6,7 +6,7 @@
 
 - 🎓 **Education:**
   - MSc in **Operations Research** @ *Columbia University* (2025 - Expected Dec 2026)
-  - BSc in CS & Econ @ *Bocconi University* (2022 - 2025)
+  - BSc in **CS & Econ** @ *Bocconi University* (2022 - 2025)
 - 📈 **Incoming Role**: Quant Strats Summer Associate at Morgan Stanley 
 - 💼 **Focus**: Statistical Modeling, ML, and Optimization
 - 🌍 **Location:** Milan, 🇮🇹 → New York City, 🇺🇸
