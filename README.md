@@ -7,8 +7,8 @@
 - 🎓 **Education:**
   - MSc in **Operations Research** @ *Columbia University* (2025 - Expected Dec 2026)
   - BSc in CS & Econ @ *Bocconi University* (2022 - 2025)
-- 🔬 **Current Role:** Machine Learning Researcher at *Bocconi Institute for Data Science & Analytics (BIDSA)*
-- 💼 **Career Interests:** ML Engineering & Quantitative Research
+- 📈 **Incoming Role**: Quant Strats Summer Associate at Morgan Stanley 
+- 💼 **Focus**: Statistical Modeling, ML, and Optimization
 - 🌍 **Location:** Milan, 🇮🇹 → New York City, 🇺🇸
 - 🏀 **Played in Italy’s Serie C (competitive semi‑pro league):** hit me up if you need a teammate!
 
