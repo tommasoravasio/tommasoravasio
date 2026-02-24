@@ -26,8 +26,8 @@
 ## 📂 Featured Projects
 | Project | Brief | Stack |
 |---------|-------|-------|
+| **[Big-Brain](https://github.com/VedPanse/Big-Brain)** | Full-stack application with semantic retrieval pipeline and LLM integration for adaptive content recommendation | React, Next.js, TypeScript, SQLite, OpenAI API |
 | **[anticor-trader](https://github.com/tommasoravasio/anticor-trader)** | Portfolio rebalancing exploiting mean-reversion and negative correlations; backtesting across 7 market universes and 4 synthetic regime scenarios | Python, Pandas, NumPy, Matplotlib, Seaborn, WRDS, Jupyter |
-| **[Big-Brain](https://github.com/VedPanse/Big-Brain)** | End-to-end full-stack system with database schema design, semantic retrieval pipeline, LLM integration and modular API architecture for adaptive content recommendation | React, Next.js, TypeScript, SQLite, OpenAI API |
 | **[HMM-SPY-GLD-Strategy](https://github.com/tommasoravasio/HMM-SPY-GLD-Strategy)** | Regime-aware probabilistic SPY/GLD allocation via rolling 2 state GMM-HMM | Hmmlearn, Yfinance, Pandas, Numpy, Scikit-learn, Matplotlib |
 | **[scRNAseq‑GNN‑multiclass‑tp53](https://github.com/tommasoravasio/scRNAseq-GNN-multiclass-tp53)** | Extension of the binary GNN model to multi-class TP53 mutation classification (predicting specific mutation types) | PyTorch Geometric, Optuna, Linux, Slurm, Git, Mygene |
 | **[scRNAseq‑GNN‑binary‑tp53](https://github.com/tommasoravasio/scRNAseq-GNN-binary-tp53)** | Graph Neural Network for binary TP53 mutation status prediction (mut vs wt) from single‑cell RNA‑seq |  PyTorch Geometric, Optuna, Linux, Slurm, Git, Mygene  |
