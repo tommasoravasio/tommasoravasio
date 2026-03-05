@@ -31,7 +31,6 @@
 | **[HMM-SPY-GLD-Strategy](https://github.com/tommasoravasio/HMM-SPY-GLD-Strategy)** | Regime-aware probabilistic SPY/GLD allocation via rolling 2 state GMM-HMM | Hmmlearn, Yfinance, Pandas, Numpy, Scikit-learn, Matplotlib |
 | **[scRNAseq‑GNN‑multiclass‑tp53](https://github.com/tommasoravasio/scRNAseq-GNN-multiclass-tp53)** | Graph Neural Network for multi-class TP53 mutation prediction from single-cell RNA-seq data | PyTorch Geometric, Optuna, Linux, Slurm, Git, Mygene |
 | **[Big-Brain](https://github.com/VedPanse/Big-Brain)** | Full-stack application with semantic retrieval pipeline and LLM integration for adaptive content recommendation | React, Next.js, TypeScript, SQLite, OpenAI API |
-| **[bank-default-risk-ensembles](https://github.com/tommasoravasio/bank-default-risk-ensembles)** | Credit‑scoring pipeline with EDA, feature engineering & imbalance‑aware ensembles (XGBoost, Balanced RF, Easy Ensemble) | Python, Scikit‑learn, XGBoost, Imbalanced‑learn |
 
 
 ---
