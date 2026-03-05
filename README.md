@@ -26,6 +26,7 @@
 ## 📂 Featured Projects
 | Project | Brief | Stack |
 |---------|-------|-------|
+| **[Wardstral](https://github.com/fede-giorgi/mistral-vibe)** | Security layer for vibe-coded apps: fork of Mistral Vibe CLI with a native `/security` command that detects vulnerabilities, ranks severity, and generates code fixes inside the agent loop | Python, Mistral Vibe, LLM Fine-Tuning, Hugging Face, CLI |
 | **[anticor-trader](https://github.com/tommasoravasio/anticor-trader)** | Portfolio rebalancing exploiting mean-reversion and negative correlations; backtesting across 7 market universes and 4 synthetic regime scenarios | Python, Pandas, NumPy, Matplotlib, Seaborn, WRDS, Jupyter |
 | **[HMM-SPY-GLD-Strategy](https://github.com/tommasoravasio/HMM-SPY-GLD-Strategy)** | Regime-aware probabilistic SPY/GLD allocation via rolling 2 state GMM-HMM | Hmmlearn, Yfinance, Pandas, Numpy, Scikit-learn, Matplotlib |
 | **[scRNAseq‑GNN‑multiclass‑tp53](https://github.com/tommasoravasio/scRNAseq-GNN-multiclass-tp53)** | Graph Neural Network for multi-class TP53 mutation prediction from single-cell RNA-seq data | PyTorch Geometric, Optuna, Linux, Slurm, Git, Mygene |
